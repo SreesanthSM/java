@@ -8,6 +8,6 @@ public class mark {
         int mark=87;
         System.out.println("Enter your mark"+mark);
         Char grade='b';
-        System.out.println("Enter your grade"+grade);
+       Ytem.out.println("Enter your grade"+grade);
     }
 }
